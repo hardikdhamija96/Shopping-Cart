@@ -7,7 +7,7 @@ export const Header = () => {
     <div className="bg-gray-300 p-4">
       <nav className="w-full flex justify-between px-4 items-center">
         <div>
-          <Link>
+          <Link to="/">
             <h1 className="font-serif font-semibold uppercase text-2xl text-gray-800">
               Shopping Cart
             </h1>
